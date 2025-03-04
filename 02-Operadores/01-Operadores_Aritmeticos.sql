@@ -35,7 +35,8 @@ select
 	birth_date,
 	(current_date - birth_date) / 365 as "idade do cliente"
 from sales.customers
-order by "idade do cliente";
+order by "idade do cliente"
+limit 10;
 
 
 -- (Exemplo 3) Criação de coluna calculada com strings 
