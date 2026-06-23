@@ -4,6 +4,11 @@
 # environment_version = "5"
 # ///
 # MAGIC %md
+# MAGIC ## COMANDOS BÁSICOS: SELECT, DISTINCT, WHERE, ORDER BY, LIMIT.
+
+# COMMAND ----------
+
+# MAGIC %md
 # MAGIC ---
 # MAGIC #### SELECT - Comando usado para selecionar colunas de tabelas.
 
