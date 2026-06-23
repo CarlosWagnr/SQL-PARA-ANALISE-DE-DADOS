@@ -4,11 +4,6 @@
 # environment_version = "5"
 # ///
 # MAGIC %md
-# MAGIC # CURSO DE SQL PARA ANÁLISE DE DADOS 
-
-# COMMAND ----------
-
-# MAGIC %md
 # MAGIC ---
 # MAGIC #### SELECT - Comando usado para selecionar colunas de tabelas.
 
